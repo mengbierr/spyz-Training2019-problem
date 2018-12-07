@@ -1,0 +1,5 @@
+folder: day
+name: day2
+subdir: [cow, blockade, door]
+title: {zh-cn: day2}
+version: 2

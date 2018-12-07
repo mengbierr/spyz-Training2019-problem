@@ -1,0 +1,7 @@
+folder: contest
+name: name_for_programers
+short title: {zh-cn: NOIP模拟赛}
+subdir: [day2, day3]
+subtitle: {zh-cn: ' '}
+title: {zh-cn: ' '}
+version: 2
