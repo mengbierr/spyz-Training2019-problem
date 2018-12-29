@@ -1,0 +1,5 @@
+folder: day
+name: day10
+subdir: [supermarket, toy, magic]
+title: {zh-cn: day10}
+version: 2

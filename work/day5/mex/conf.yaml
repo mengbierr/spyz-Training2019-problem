@@ -1,0 +1,17 @@
+args: {n: 1000}
+compile: {c: -O2 -std=c14, cpp: -O2 -std=c++14, java: '', pas: -O2, py: ''}
+data:
+- cases: [count1, count2, count3, count4, count5, count6, count7, count8, count9,
+    count10, count11, count12, count13, count14, count15, count16, count17, count18,
+    count19, count20]
+folder: problem
+memory limit: 512 MB
+name: mex
+partial score: false
+pre: []
+samples: []
+time limit: 2.0
+title: {zh-cn: mex}
+type: program
+users: {}
+version: 2
