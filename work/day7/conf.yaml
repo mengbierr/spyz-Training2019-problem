@@ -1,5 +1,5 @@
 folder: day
 name: day7
-subdir: [matrix]
+subdir: [matrix, permutation, competition]
 title: {zh-cn: day7}
 version: 2
