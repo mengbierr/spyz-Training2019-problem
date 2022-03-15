@@ -5,3 +5,4 @@
 ```
 pip install track
 ```
+使用lemon评测工具，导入cdf到lemon中即可完成题目配置。
